@@ -1,3 +1,3 @@
-# aplicacao-java-com-springboot
+# Aplicação Java com SpringBoot
 
 Criando uma aplicação java springboot
